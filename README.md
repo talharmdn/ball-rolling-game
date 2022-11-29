@@ -16,6 +16,8 @@
 
 ## NOT: Pause menü kendi proje dosyalarımda çalışıyordu fakat takım arkadaşımın yazdıkları ile çakıştığı için çalışmadı. Proje dosyasınını içinde "PMENU" canvası ve skripti mevcut isterseniz bakabilirsiniz.
 
+## Itch.io linki: https://talharamadan.itch.io/ball-rolling
+
 ## KAYNAKLAR
 ### Top: https://www.google.com/search?q=ball+texture&client=ms-android-oppo-rev1&prmd=isvn&sxsrf=ALiCzsbC7yNA1jUbzRH0jdXW572qaYJU3w:1669746830424&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjQusTVg9T7AhXRQPEDHXk7CvUQ_AUoAXoECAEQAQ&biw=360&bih=712&dpr=3#imgrc=1Ome9-iFQN3jRM
 
