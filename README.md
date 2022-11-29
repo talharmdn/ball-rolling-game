@@ -1,14 +1,14 @@
 # Ball Rolling Game
 
 
-##Amaç topu yuvarlayarak beyaz objeleri toplamak.Bu sırada karşınıza çıkan siyah objelerden kaçmak ve kırmızı duvarlara değmemek.Manuel olarak yerçekimini tersine çevirebiliyorsunuz. Bu sayede duruma göre ters veya düz bir şekilde ölmeden ve platformdan düşmeden puan toplamak
+## Amaç topu yuvarlayarak beyaz objeleri toplamak.Bu sırada karşınıza çıkan siyah objelerden kaçmak ve kırmızı duvarlara değmemek.Manuel olarak yerçekimini tersine çevirebiliyorsunuz. Bu sayede duruma göre ters veya düz bir şekilde ölmeden ve platformdan düşmeden puan toplamak
 
 ![alt text](https://imgyukle.com/f/2022/11/29/JHrG3Y.png)
 
-## Kontroller
-##W/A/S/D Hareket tuşları
-##SHIFT Ters yerçekimi uygular
-##CTRL Düz yerçekimi uygular
+# Kontroller
+## W/A/S/D Hareket tuşları
+## SHIFT Ters yerçekimi uygular
+## CTRL Düz yerçekimi uygular
 
 ## Projede Benim geliştirdiğim kısımlar topun dönerek hareket etmesi,pause menü,yerçekimini değiştirmek ve ona bağlı olarak kameranın da değişmesi.
 
